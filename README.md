@@ -69,11 +69,11 @@
 - **异常收益率计算**：
   
   $$
-  AR_{it}=R_{i,t}-(\alpha_i+\beta_i\times R_{m,t})
+  AR _{it}=R _{i,t}-(\alpha_i+\beta_i\times R_{m,t})
   $$
   
   $$
-  CAR(t_1,t_2)=\sum_{t=t_1}^{t=t_2}AR_{i,t}
+  CAR(t _1,t_2)=\sum _{t=t _1}^{t=t _2}AR _{i,t}
   $$
 
 ### 技术栈
