@@ -118,7 +118,11 @@ Event study/
 ## 🔧 环境依赖
 
 ### Python 版本
-- Python 3.7+
+- Python 3.9.13
+- pandas 2.2.3
+- statsmodels 0.14.4
+- scipy 1.9.1  
+- numpy 1.24.4
 
 ### 必需的 Python 库
 ```bash
