@@ -56,7 +56,7 @@
 ### 核心算法
 - **市场模型（Market Model）**：使用 OLS 回归估计正常收益率
   
-  $$R_{it}=\alpha_i+\beta_i\times R_{mt}+\epsilon_{it}$$
+  $$ R_{it}=\alpha_i+\beta_i\times R_{mt}+\epsilon_{it} $$
   
   其中：
   - $R_{it}$：股票 $i$ 在 $t$ 日的收益率
@@ -66,9 +66,9 @@
   
 - **异常收益率计算**：
   
-  $$AR_{it}=R_{i,t}-(\alpha_i+\beta_i\times R_{m,t})$$
+  $$ AR_{it}=R_{i,t}-(\alpha_i+\beta_i\times R_{m,t}) $$
   
-  $$CAR(t_1,t_2)=\sum _{t=t _1}^{t=t _2}AR _{i,t}$$
+  $$ CAR(t_1,t_2)=\sum _{t=t _1}^{t=t _2}AR _{i,t} $$
 
 ### 技术栈
 - **数据处理**：pandas, numpy
