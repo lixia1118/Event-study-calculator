@@ -260,7 +260,7 @@ event_study = EventStudy(
 
 **窗口示意图**：
 
-![]("Github graphs/Event window.png")
+![]("[Github graphs/Event window.png](https://github.com/lixia1118/Event-study-calculator/blob/main/Github%20graphs/Event%20window.png)")
 
 ### 多进程配置
 
