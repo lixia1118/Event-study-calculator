@@ -119,20 +119,15 @@ Event study/
 
 ### Python 版本
 - Python 3.9.13
-- pandas 2.2.3
-- statsmodels 0.14.4
-- scipy 1.9.1  
-- numpy 1.24.4
 
 ### 必需的 Python 库
 ```bash
-pandas>=1.3.0
-numpy>=1.20.0
-statsmodels>=0.12.0
-scipy>=1.7.0
-matplotlib>=3.3.0
-tqdm>=4.60.0
-openpyxl>=3.0.0  # 用于读取 Excel 文件
+pandas>=2.2.3
+numpy>=1.24.4
+statsmodels>=0.14.4
+scipy>=1.9.1
+matplotlib>=3.9.4
+tqdm>=4.64.1
 ```
 
 ### 内置模块
@@ -262,7 +257,7 @@ event_study = EventStudy(
 
 **窗口示意图**：
 
-![](C:\Users\lixia\Documents\GitHub\Event-study-calculator\Github graphs\Event window.png)
+![](Github graphs/Event window.png)
 
 ### 多进程配置
 
@@ -343,7 +338,7 @@ merged_data = event_study.get_data(company_code, event_date, custom_index='00030
 - 上图：平均异常收益率（AAR）趋势
 - 下图：累积平均异常收益率（CAAR）趋势
 
-![](C:\Users\lixia\Documents\GitHub\Event-study-calculator\Github graphs\AR & CAR_graph.png)
+![](Github graphs/AR & CAR_graph.png)
 
 ## ⚠️ 注意事项
 
