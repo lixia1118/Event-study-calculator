@@ -261,10 +261,8 @@ event_study = EventStudy(
 - `estimation_window_gap`：估计窗口结束日与事件窗口开始日之间的间隔天数
 
 **窗口示意图**：
-```
-估计窗口                   间隔    事件窗口
-[--------120天--------]  [5天]  [-3天|事件日|+5天]
-```
+
+![](C:\Users\lixia\Documents\GitHub\Event-study-calculator\Github graphs\Event window.png)
 
 ### 多进程配置
 
@@ -344,6 +342,8 @@ merged_data = event_study.get_data(company_code, event_date, custom_index='00030
 包含两个子图：
 - 上图：平均异常收益率（AAR）趋势
 - 下图：累积平均异常收益率（CAAR）趋势
+
+![](C:\Users\lixia\Documents\GitHub\Event-study-calculator\Github graphs\AR & CAR_graph.png)
 
 ## ⚠️ 注意事项
 
