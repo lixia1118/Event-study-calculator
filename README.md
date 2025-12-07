@@ -103,7 +103,7 @@ Event study/
 │   ├── 日个股回报率/
 │   │   └── TRD_Daily_20150101-20250101.csv  # 股票日交易数据（需要自行从CSMAR下载）
 │   └── 指数文件1990-12-19 - 2025-04-24/
-│       └── TRD_Index.xlsx              # 市场指数数据（已经从CSMAR下载）
+│       └── TRD_Index.xlsx              # 市场指数数据（需要自行从CSMAR下载）
 │
 ├── Event study_results/                 # 输出结果目录
 │   ├── 异常收益率（AR）&累积异常收益率(CAR).csv
