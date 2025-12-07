@@ -71,15 +71,11 @@
 - **异常收益率计算**：
   
   $$
-  
   AR_{it}=R_{i,t}-(\alpha_i+\beta_i\times R_{m,t})
-  
   $$
   
   $$
-  
-  CAR(t _1,t_2)=\sum _{t=t _1}^{t=t _2}AR _{i,t}
-  
+  CAR(t_1,t_2)=\sum _{t=t _1}^{t=t _2}AR _{i,t}
   $$
 
 ### 技术栈
@@ -266,7 +262,7 @@ event_study = EventStudy(
 
 **窗口示意图**：
 
-![]("https://github.com/lixia1118/Event-study-calculator/blob/main/Github%20graphs/Event%20window.png")
+![Window Description](https://github.com/lixia1118/Event-study-calculator/blob/main/Github%20graphs/Event%20window.png)
 
 ### 多进程配置
 
