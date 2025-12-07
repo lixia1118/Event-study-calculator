@@ -57,9 +57,7 @@
 - **市场模型（Market Model）**：使用 OLS 回归估计正常收益率
   
   $$
-  
   R_{it}=\alpha_i+\beta_i\times R_{mt}+\epsilon_{it}
-  
   $$
   
   其中：
@@ -343,7 +341,7 @@ merged_data = event_study.get_data(company_code, event_date, custom_index='00030
 - 上图：平均异常收益率（AAR）趋势
 - 下图：累积平均异常收益率（CAAR）趋势
 
-![](/Github graphs/AR & CAR_graph.png)
+![AR&CAR](https://github.com/lixia1118/Event-study-calculator/blob/main/Github%20graphs/AR%20%26%20CAR_graph.png)
 
 ## ⚠️ 注意事项
 
