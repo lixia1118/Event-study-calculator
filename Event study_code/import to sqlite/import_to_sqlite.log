@@ -1,0 +1,77 @@
+2025-11-24 11:33:34,322 - INFO - 数据库和表创建成功
+2025-11-24 11:33:41,825 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 11:33:42,410 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 11:33:42,994 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 11:33:43,589 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 11:33:44,241 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 11:33:44,854 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 11:33:45,451 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 11:33:46,030 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 11:33:46,613 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 11:33:47,203 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 11:33:47,801 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 11:33:48,391 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 11:33:48,984 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 11:33:49,581 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 11:33:50,182 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 11:33:50,790 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 11:33:51,391 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 11:33:51,988 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 11:33:52,585 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 11:33:53,181 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 11:33:53,758 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 11:33:54,328 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 11:33:54,895 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 11:33:55,463 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 11:33:56,034 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 11:33:56,605 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 11:33:57,173 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 11:33:57,743 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 11:33:58,311 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 11:33:58,903 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 11:33:59,498 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:05:36,209 - INFO - 数据库和表创建成功
+2025-11-24 12:05:43,492 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:05:44,115 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:05:44,725 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:05:45,325 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:05:45,949 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:05:46,549 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:05:47,149 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:05:47,750 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:05:48,356 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:05:48,990 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:05:49,592 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:05:50,216 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:05:50,823 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:05:51,451 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:05:52,059 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:05:52,660 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:08:39,816 - INFO - 数据库和表创建成功
+2025-11-24 12:11:12,886 - INFO - 数据导入完成
+2025-11-24 12:18:30,417 - INFO - 数据库和表创建成功
+2025-11-24 12:18:37,965 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:18:38,548 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:18:39,133 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:18:39,722 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:18:40,302 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:18:40,898 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:18:41,483 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:18:42,075 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:18:42,672 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:18:43,259 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:20:13,391 - INFO - 数据库和表创建成功
+2025-11-24 12:20:20,996 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:20:21,583 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:20:22,176 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:20:22,778 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:20:23,388 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:20:23,995 - ERROR - 处理数据块时发生错误: UNIQUE constraint failed: daily_data.Stkcd, daily_data.Trddt
+2025-11-24 12:22:12,456 - INFO - 已删除旧数据库: Event study_data/stock_daily_data.db
+2025-11-24 12:22:12,466 - INFO - 数据库和表创建成功
+2025-11-24 12:24:37,058 - INFO - 数据导入完成
+2025-11-24 12:25:00,559 - INFO - 已删除旧数据库: Event study_data/stock_daily_data.db
+2025-11-24 12:25:00,570 - INFO - 数据库和表创建成功
+2025-11-24 12:25:48,247 - INFO - 已删除旧数据库: Event study_data/stock_daily_data.db
+2025-11-24 12:25:48,250 - INFO - 数据库和表创建成功
+2025-11-24 12:27:55,661 - INFO - 数据导入完成
