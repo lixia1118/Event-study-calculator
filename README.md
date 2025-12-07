@@ -68,7 +68,7 @@
   
   $$AR_{it}=R_{i,t}-(\alpha_i+\beta_i\times R_{m,t})$$
   
-  $$CAR(t_1,t_2)=\sum _{t=t _1}^{t=t _2}AR_{i,t}$$
+  $$CAR(t_1,t_2)=\sum _{t=t _1}^{t=t _2}AR _{i,t}$$
 
 ### 技术栈
 - **数据处理**：pandas, numpy
