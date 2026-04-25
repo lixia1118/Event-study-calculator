@@ -57,7 +57,7 @@
 - **市场模型（Market Model）**：使用 OLS 回归估计正常收益率
   
   ```math
-  R_{it}=\alpha_i+\beta_i\times R_{mt}+\epsilon_{it}
+ (R_{it}=\alpha_i+\beta_i\times R_{mt}+\epsilon_{it})
   ```
   
   其中：
